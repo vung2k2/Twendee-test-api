@@ -4,6 +4,8 @@ This API provides random user data similar to randomuser.me. It is built using N
 
 ## Endpoints
 
+Note: Wait about 1 minute for the server to start
+
 - `GET https://twendee-test-api.onrender.com/randomuser`
   - Fetch a random user.
 
