@@ -1,19 +1,3 @@
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-```
-
 # Twendee Test API
 
 This API provides random user data similar to randomuser.me. It is built using NestJS.
@@ -38,9 +22,20 @@ This API provides random user data similar to randomuser.me. It is built using N
 - `GET https://twendee-test-api.onrender.com/randomuser?exc=phone`
   - Fetch a random user excluding the specified field (`phone`).
 
-## How to Use
+## Installation
 
-### Get a Random User
+```bash
+$ npm install
+```
 
-```sh
-curl https://twendee-test-api.onrender.com/randomuser
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+```
+
+
